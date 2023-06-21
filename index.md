@@ -1,11 +1,3 @@
-```mermaid
-graph LR;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-
-
 gantt
 title Training and Exercises Calendar
 dateFormat YYYY-MM-DD
