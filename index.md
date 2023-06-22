@@ -1,3 +1,5 @@
+```mermaid
+
 gantt
 title Training and Exercises Calendar
 dateFormat YYYY-MM-DD
@@ -15,3 +17,4 @@ EXERCISE45239 - CYSOPEX: EXERCISE45239, 2023-11-09, 1d
 EXERCISE45245 - JASPER: EXERCISE45245, 2023-11-15, 16d
 Letra202306 - Letra: Letra202306, 2023-06-19, 3d
 
+```
